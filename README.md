@@ -7,3 +7,4 @@ The attack is supported by a full english dictionary with also some italians wor
 >It's very simple to try it! first thing to do is to download the repo and then compile the java files.
 Once you've done that run PasswordManager.java to set the password. The password is gonna be crypted with SHA-256 and stored in the pwfile.txt.  
 >>Note: The PATH are hard coded, just change them to make it work properly!
+At this point
