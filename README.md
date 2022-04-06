@@ -14,4 +14,5 @@ At this moment the project supports only 4 guess patterns out of 8 :
 - word.n | Word.n
 - word_n | Word_n
 - word<n> | Word<n>. 
-  > where n is a number between 0 and 1000
+  > where n is a number between 0 and 1000. 
+  More to come
