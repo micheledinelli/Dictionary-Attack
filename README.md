@@ -10,7 +10,8 @@ Note: The PATH are hard coded, just change them to make it work properly!
 Now just run DictionaryAttack.java and wait for the magic.
 ## Guess capability
 At this moment the project supports only 4 guess patterns out of 8 :
+(n is a number between 0-1000)
 - word | Word
 - word.n | Word.n
 - word_n | Word_n
-- word<n> | Word<n>
+- wordn | Wordn
